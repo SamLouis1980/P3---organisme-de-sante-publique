@@ -20,7 +20,7 @@ Actuellement, la saisie manuelle des informations entraîne de nombreuses erreur
 
 ---
 
-## 🛠 Technologies utilisées
+##  Technologies utilisées
 
 Le projet a été réalisé en Python à l’aide des bibliothèques suivantes :
 
