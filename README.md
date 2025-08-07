@@ -35,6 +35,6 @@ Le projet a été réalisé en Python à l’aide des bibliothèques suivantes :
 
 ##  Structure du projet
 
-- notebook.ipynb           # Notebook d'analyse et de traitement des données
-- presentation.pptx        # Présentation synthétique à destination du client
+- notebook.ipynb - Notebook d'analyse et de traitement des données
+- presentation.pptx - Présentation synthétique à destination du client
 
